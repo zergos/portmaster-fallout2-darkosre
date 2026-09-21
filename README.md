@@ -1,8 +1,8 @@
 # portmaster-fallout2-darkosre
 Fallout 2 binary release for Portmaster (dArkOSRE)
 
-Original build published on Portmaster: https://portmaster.games/detail.html?name=fallout2
-Source code: https://github.com/alexbatalov/fallout2-ce
+* Original build published on Portmaster: https://portmaster.games/detail.html?name=fallout2
+* Source code: https://github.com/alexbatalov/fallout2-ce
 
 ## Build sequence
 
